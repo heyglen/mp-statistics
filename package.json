@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["statistics.py", "github:heyglen/mp-statistics/statistics.py"]
+  ],
+  "deps": [],
+  "version": "0.1.0"
+}
